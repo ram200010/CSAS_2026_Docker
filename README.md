@@ -1,5 +1,5 @@
-# CSAS 2026 - Docker
-Date:
+# CSAS 2026 - Building and Deploying Sports Data Apps with Docker
+Date: April 10, 2025
 
 Time: TBA
 
