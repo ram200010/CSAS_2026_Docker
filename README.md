@@ -21,7 +21,7 @@ Laptop with Docker and Python installed (AWS optional).
 
 ## Instructor
 
-Rahul Manna is a senior pursuing a dual degree in Statistical Data Science and Mechanical Engineering. He currently works as a research assistant in the Laboratory for Advanced Manufacturing Reliability (KKim Lab), where he evaluates materials for implantable bioelectronics and recently published his first research paper. Rahul is also collaborating with Dr. Jun Yan to develop machine learning models that predict utility demand for buildings across the UConn campus. Beyond academics and research, Rahul is an avid Formula One enthusiast, drawn to the sport’s fusion of cutting-edge engineering, advanced statistics, data science, and human ingenuity—elements that shape both on-track performance and the strategic decisions behind the scenes.
+Rahul Manna is a senior at UConn, pursuing a dual degree in Statistical Data Science and Mechanical Engineering. Currently, he is collaborating with Dr. Jun Yan to develop machine learning models that predict utility demand for buildings across the UConn campus. He is a research assistant in the Laboratory for Advanced Manufacturing Reliability (KKim Lab), where he evaluates materials for implantable bioelectronics. His first research paper was recently published in Royal Society of Chemistry's *Applied Polymers*.  Beyond academics and research, Rahul is an avid Formula One enthusiast, drawn to the sport’s fusion of cutting-edge engineering, advanced statistics, data science, and human ingenuity—elements that shape both on-track performance and the strategic decisions behind the scenes.
 
 
 ## Data
