@@ -1,9 +1,9 @@
 # CSAS 2026 - Building and Deploying Sports Data Apps with Docker
 Date: April 10, 2025
 
-Time: TBA
+Time: 2:20-3:30 PM
 
-Location: TBA
+Location: MCHU 306
 
 Workshop Leader: [Rahul Manna](https://www.linkedin.com/in/rahul-manna-544590346/)
 
@@ -17,13 +17,13 @@ Docker is a platform that allows developers to package applications and their de
 
 ## Prerequisites
 
-Laptop with Docker and Python installed (AWS optional).
+Laptop with Docker Desktop installed.
+
+Download Here: [Link](https://www.docker.com/products/docker-desktop/)
+
+Installation typically takes 5–10 minutes and may require a system restart. On Windows, you may also need to update Windows Subsystem for Linux — Docker Desktop will notify you if this is required. To update WSL, run `wsl --update` in Command Prompt.
 
 ## Instructor
 
 Rahul Manna is a senior at UConn, pursuing a dual degree in Statistical Data Science and Mechanical Engineering. Currently, he is collaborating with Dr. Jun Yan to develop machine learning models that predict utility demand for buildings across the UConn campus. He is a research assistant in the Laboratory for Advanced Manufacturing Reliability (KKim Lab), where he evaluates materials for implantable bioelectronics. His first research paper was recently published in Royal Society of Chemistry's *Applied Polymers*.  Beyond academics and research, Rahul is an avid Formula One enthusiast, drawn to the sport’s fusion of cutting-edge engineering, advanced statistics, data science, and human ingenuity—elements that shape both on-track performance and the strategic decisions behind the scenes.
 
-
-## Data
-
-TBA
