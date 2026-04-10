@@ -538,7 +538,7 @@ plt.show()
 All files are available on the github repo for this workshop: 
 
 <center>
-[https://github.com/ram200010/CSAS_2026_Docker/example_1](https://github.com/ram200010/CSAS_2026_Docker/example_1)
+[https://github.com/ram200010/CSAS_2026_Docker](https://github.com/ram200010/CSAS_2026_Docker)
 
 **Example 1 Folder**
 </center>
@@ -789,7 +789,7 @@ Model will be trained on data from five previous seasons.
 All files are available on the github repo for this workshop: 
 
 <center>
-[https://github.com/ram200010/CSAS_2026_Docker/example_2](https://github.com/ram200010/CSAS_2026_Docker/example_2)
+[https://github.com/ram200010/CSAS_2026_Docker](https://github.com/ram200010/CSAS_2026_Docker)
 
 **Example 2 Folder**
 </center>
