@@ -374,7 +374,7 @@ Once files are ready, open terminal/CMD in folder or navigate to folder with fil
 
 Output: `localhost:<host-port>` or `http://127.0.0.1:*container-port*/`
 
-Example: http://localhost:5000 or http://127.0.0.1:5000 (Prefered)
+Example: http://localhost:5000 or http://127.0.0.1:5000 (Preferred)
 
 
 ## Docker Commands {.smaller}
